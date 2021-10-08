@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+#main{
+    background: #fff;
+    width: 8000px;
+    margin:auto;
+    color: black;
+}
+#header{
+    background: url(..images/header.jpg);
+}
+#black{
+    color: #fff;
+}
+#white{
+    color: #fff;
+}
+#metamorph{
+    color: #fff;
+    font-size: .6em;
+}
+#menu{
+    width: 800px;
+    background: linear-gradient(#000,#888);
+    color: #fff;
+}
+#menu ul{
+    list-style: none;
+    height: 50px;
+}
+#menu ul{
+    display: inline;
+}
+#menu a{
+    color: #fff;
+    width: 100px;
+    text-align: center;
+    text-decoration:none ;
+    padding: 5px;
+}
+#menu a:hover{
+    background-color: blanchedalmond;
+    text-decoration: underline;
+}
+#content{
+    width: 800px;
+}
+#left{
+    float:left;
+    width: 250px;
+    padding: 5px 10px;
+}
+#right{
+    float:right;
+    width: 500px;
+    padding: 5px 10px;
+}
+
+#footer{
+    position:fixed;
+    bottom: 0px;
+    height: 50px;
+    weight: 800px;
+    text-align: center;
+    padding:20px 0px;
+    background: linear-gradient(#000,#888);
+}
