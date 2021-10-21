@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(82, 14, 14);
 }
 #main{
     background: #fff;
@@ -64,5 +64,5 @@ body{
     weight: 800px;
     text-align: center;
     padding:20px 0px;
-    background: linear-gradient(#000,#888);
+    background: linear-gradient(rgb(5, 5, 5),#888);
 }
